@@ -1,7 +1,7 @@
 # Eric Armando Reyes Pichardo 
 ## Computadoras y Programaciòn grupo 1157
 ## Semestre 2020-1
-![Logo Fes Aragon](fesar.jpg)
+![Logo Fes Aragon](fesa.jpg)
 
 Aquì va una **descripcion** del *repositorio*
 - elemento 1
