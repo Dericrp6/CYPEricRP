@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 print("PROMEDIO_CALIFICACION")
 MAT = int(input("Dame la calificacion de las materias")
 
@@ -12,3 +13,6 @@ PRO = (CAL1 + CAL2 + CAL3 + CAL4 + CAL5)/5
 
 MAT = print(f"Las calificaciones de las materias son {CAL1}, {CAL2}, {CAL3}, {CAL4} y {CAL5} asi que el: ")
 PRO = print("promedio del semestre es {PRO}")
+=======
+MAT
+>>>>>>> a730a9f152db0c524ce070afc1ad16870657f583
