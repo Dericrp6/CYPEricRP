@@ -3,8 +3,8 @@ MED = 0
 GRA = 0
 N = float(input("Dame el numero de ventas del vendedor: "))
 
-I = 1
-for I in range(1,I,N):
+
+for i in range(1,200,1):
     V = int(input("Su numero de ventas porfavor: "))
     if V <= 200:
         CHI = CHIC + 1
@@ -13,7 +13,7 @@ for I in range(1,I,N):
         MED = MED + 1 
     else: GRA = GRA + 1 
 
-    I = I + 1
+    i = i + 1
 
 print(f"Las ventas menores fueron {CHI}")
 print(f"Las ventas medianas fueron {MED}")
