@@ -33,4 +33,4 @@ else :
 
 if Y >64:
     F1 = 0
-    print(f"El calculo de la función 0 es igual a {F2}")
+    print(f"El calculo de la función 0 es igual a {F1}")
